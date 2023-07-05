@@ -1,0 +1,24 @@
+url,date,JS Attributes Tracked,Fingerprinting Features,Aggressive Features,Aggresive Categories,Sensitive,loadtime
+https://www.google.com/,1669352393597,16,7,4,4,User_agent;App_version;Mobile;Storage;Connection;Device_memory;Hardware_concurrency,8505
+https://www.youtube.com/?themeRefresh=1,1669352412170,18,7,2,2,User_agent;App_version;Storage;Cookies_enabled;Timezone;Connection;Online,6421
+https://www.facebook.com/,1669352426251,24,16,8,8,Storage;User_agent;Hardware_concurrency;Webdriver;List_of_plugins;Content_language;Connection;Permissions;Vendor;App_version;Platform;Timezone;Mobile;Device_memory;WebGL;Online,9300
+https://www.microsoft.com/ja-jp/,1669352456246,17,7,1,1,User_agent;Product;Content_language;Timezone;Storage;App_version;Mobile,20227
+https://www.netflix.com/jp-en/,1669352476160,19,6,0,0,Storage;Timezone;User_agent;DoNotTrack;Content_language;Vendor,14309
+https://store.epicgames.com/en-US/,1669352507176,18,9,1,1,User_agent;Storage;Product;Mobile;Timezone;DoNotTrack;Online;Audio_Video_formats;Platform,22770
+https://twitter.com/,1669352536334,22,8,2,2,User_agent;Storage;Connection;Online;Platform;Timezone;List_of_plugins;Content_language,23006
+https://www.instagram.com/,1669352557527,34,16,8,8,Storage;Hardware_concurrency;Device_memory;Connection;User_agent;Platform;WebGL;Webdriver;List_of_plugins;Content_language;Permissions;Vendor;App_version;Timezone;Mobile;Online,14622
+https://www.apple.com/,1669352597426,19,8,0,0,User_agent;Platform;Vendor;Mobile;Storage;Content_language;App_name;Timezone,13821
+https://www.linkedin.com/,1669352609328,12,2,0,0,Storage;User_agent,5954
+https://www.cloudflare.com/en-gb/,1669352668368,22,10,4,4,Storage;User_agent;Content_language;App_version;Webdriver;Timezone;DoNotTrack;List_of_plugins;Cookies_enabled;Connection,51646
+https://www.wikipedia.org/,1669352679604,12,6,0,0,Storage;DoNotTrack;Content_language;User_agent;Browser_language;System_language,5004
+https://www.yahoo.com/,1669352730346,24,9,2,2,User_agent;Timezone;Storage;Connection;App_name;Cookies_enabled;Permissions;Product;Online,43315
+https://www.qq.com/,1669352777769,1,1,0,0,User_agent,40271
+https://www.bilibili.com/,1669352808388,2,2,0,0,User_agent;Platform,20991
+https://www.amazon.com/,1669352884315,30,14,5,5,Online;Geolocation;Storage;User_agent;Platform;Mobile;Connection;Content_language;DoNotTrack;Hardware_concurrency;Device_memory;Cookies_enabled;Webdriver;Vendor,68056
+https://www.warnerbros.com/,1669352905541,12,6,1,1,User_agent;Product;Storage;Platform;Mobile;App_version,11496
+https://www.bing.com/?toWww=1&redig=1232E3A336DF4E4EAC1D0151B54035A9,1669352915320,7,3,1,1,Timezone;Connection;User_agent,5159
+https://www.trendyol.com/en/select-country,1669352930455,10,7,3,3,User_agent;App_version;Storage;Webdriver;Connection;DoNotTrack;Vendor,8472
+https://outlook.live.com/owa/,1669352953344,25,16,7,7,User_agent;Cookies_enabled;List_of_plugins;App_version;Content_language;Webdriver;Hardware_concurrency;Device_memory;Platform;Mobile;Connection;Online;DoNotTrack;Vendor;Product;Product_sub,16281
+https://googletagmanager.com/,1669352963643,0,0,0,0,,5326
+https://azure.microsoft.com/en-us/,1669353024344,32,18,6,6,Timezone;Online;Storage;User_agent;Cookies_enabled;Content_language;Webdriver;Hardware_concurrency;Device_memory;Platform;Mobile;Connection;DoNotTrack;Vendor;Product;Product_sub;App_name;App_version,53751
+https://edition.cnn.com/,1669353117537,60,32,12,12,User_agent;Storage;List_of_plugins;Product;App_name;Timezone;Connection;App_version;DoNotTrack;Content_language;Vendor;Cookies_enabled;Platform;Product_sub;Vendor_sub;Build_ID;Oscpu;Hardware_concurrency;Cpu_Class;Webdriver;Mobile;App_code_name;Java_enabled;Media_devices;Browser_language;System_language;Online;Permissions;Drag_and_drop;Geolocation;Battery_status;Device_memory,85508
